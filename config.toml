@@ -3,4 +3,4 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 [module]
   [[module.imports]]
-    path = "github.com/theNewDynamic/gohugo-theme-ananke"
+    path = "github.com/yihui/hugo-xmin"

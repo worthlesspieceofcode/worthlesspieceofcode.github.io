@@ -17,3 +17,7 @@ https://github.com/theNewDynamic/gohugo-theme-ananke
 sudo add-apt-repository --remove ppa:therealkenc/wsl-pulseaudio
 
 hugo mod init 
+
+https://hackernoon.com/how-to-set-up-godaddy-domain-with-github-pages-a9300366c7b
+
+hugo mod init github.com/worthlesspieceofcode/worthlesspieceofcode.github.io
